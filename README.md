@@ -7,3 +7,7 @@ items (goals) with the available points.
 This program recieves a map (in map.py) and the starting points and goals to
 identify the best path starting on the start and passing through every goal (in the
 given order).
+
+The next step is use web scrapping to automatically download the map of the current event,
+and maybe even use selenium to use a "path constructor" (tool in web to generate your own
+path manually and verify the cost of that map. Then the map can be shared with others).
